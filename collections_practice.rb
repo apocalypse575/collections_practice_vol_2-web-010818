@@ -11,7 +11,6 @@
 # end
 # end
 
-collection2.all? {|word| word.start_with?("r")}
 
 
 
